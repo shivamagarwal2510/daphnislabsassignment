@@ -1,0 +1,10 @@
+@media screen and (max-width: 450px) {
+  .modalContainer{
+    width: 90vw;
+    height: 60vh;
+  }
+  .modalContainer .body{
+    width: 80vw;
+    height: 60vh;
+  }
+}
